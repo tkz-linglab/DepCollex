@@ -9,7 +9,7 @@ This applies to the code in the Colab notebook and the distributed binaries, unl
 
 ## Citation
 If you use this project in academic work, please cite BOTH:
-1) Koizumi, T. (2026a). DepCollex: A tool for extracting and analyzing dependency-based collocations in learner corpora. In R. Murao & M. Morita (Eds.), *Second language acquisition research and English education: Festschrift for Profassor Masatoshi Sugiura* (pp. 42–56). Kaitakusha. 
+1) Koizumi, T. (2026a). DepCollex: A tool for extracting and analyzing dependency-based collocations in learner corpora. In R. Murao & M. Morita (Eds.), *Second language acquisition research and English education: Festschrift for Professor Masatoshi Sugiura* (pp. 42–56). Kaitakusha. 
 2) Koizumi, T. (2026b). *DepCollex* (v1.x.x). GitHub repository: https://github.com/tkz-linglab/DepCollex
 
 ## Quick start (download → unzip → run)
